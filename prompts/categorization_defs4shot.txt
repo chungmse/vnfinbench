@@ -1,0 +1,59 @@
+Định nghĩa các nhãn (quy ước chuyên mục của tòa soạn):
+- Thị trường chứng khoán: diễn biến giá cổ phiếu, chỉ số, giao dịch, phân tích kỹ thuật.
+- Doanh nghiệp: hoạt động kinh doanh, kết quả, nhân sự của doanh nghiệp cụ thể (không thiên về giá cổ phiếu).
+- Tài chính - ngân hàng: ngân hàng, lãi suất, tín dụng, bảo hiểm trong nước.
+- Tài chính quốc tế: thị trường, kinh tế, doanh nghiệp NƯỚC NGOÀI.
+- Kinh tế vĩ mô - Đầu tư: chính sách, GDP, CPI, FDI, quy hoạch, đầu tư công.
+- Bất động sản: dự án, giá nhà đất, thị trường địa ốc.
+- Thị trường: hàng hóa tiêu dùng, giá cả thị trường trong nước (không phải chứng khoán).
+- Kinh tế số: công nghệ, internet, chuyển đổi số, thương mại điện tử.
+- Sống: phong cách sống, tiêu dùng cá nhân, câu chuyện đời sống.
+- Xã hội: tin tức xã hội, dân sinh, pháp luật, thời sự chung.
+
+Ví dụ:
+Tiêu đề: Doanh nghiệp kinh doanh Casino duy nhất trên sàn chứng khoán báo lỗ quý thứ 7 liên tiếp, lỗ lũy kế lên tới 355 tỷ đồng
+Nội dung: RIC:
+
+CTCP Quốc tế Hoàng Gia (mã chứng khoán: RIC) đã công bố BCTC quý 2/2021 với doanh thu thuần hơn 27,5 tỷ đồng, gấp đôi so với thực hiện cùng kỳ năm trước.
+
+Tuy vậy, việc kinh doanh dưới giá vốn vẫn tiếp tục diễn ra, mức tăng của giá vốn xấp xỉ 28% kiến lợi nhuận gộp ghi âm hơn 5,1 tỷ đồng, có sự cải thiện hơn so với khoản lỗ gộp gần 12 tỷ đồng trong quý 2 năm 2020.
+
+Chi phí tài chính trong kỳ
+Nhãn: Thị trường chứng khoán
+
+Ví dụ:
+Tiêu đề: Có những thay đổi kỳ diệu đã diễn ra trong cơ thể sau khi đi bộ 1 giờ, thay đổi ở phút 21-45 là điều chị em thích nhất
+Nội dung: Nhiều người có thể nghĩ rằng đi bộ là một bài tập đơn giản như và cơ thể sẽ không thay đổi nhiều sau khi đi bộ. Tuy nhiên, theo tạp chí Prevention của Mỹ cho biết, bạn bắt đầu mở rộng chân để đi bộ trong vòng một giờ, hàng loạt thay đổi sinh lý tích cực trong cơ thể sẽ xảy ra.
+
+Phút đi bộ thứ 1 - 5: Các mối nối tiết ra chất lỏng bôi trơn
+
+[IMAGE_0]
+
+Ảnh minh họa
+
+Một vài bước đầu tiên sẽ kích hoạt
+Nhãn: Sống
+
+Ví dụ:
+Tiêu đề: World Bank: Giáo dục Việt Nam nằm trong nhóm phát triển ấn tượng nhất khu vực Đông Á – Thái Bình Dương
+Nội dung: Tuy nhiên, bản báo cáo này cho biết, vẫn còn khoảng 60% học sinh trong khu vực Đông Á – Thái Bình Dương đang phải học tập tại các hệ thống giáo dục yếu kém và không được trạng bị những kĩ năng cần thiết để thành công.
+
+"Đảm bảo giáo dục chất lượng cao cho mọi trẻ em, bất kể nơi sinh ra ở đâu, không chỉ đơn thuần là một việc làm đúng đắn. Điều này còn là nền tảng của một nền kinh tế vững mạnh và là
+Nhãn: Kinh tế vĩ mô - Đầu tư
+
+Ví dụ:
+Tiêu đề: Ông Obama nói mọi thứ tốt lên hơn khi ông làm tổng thống
+Nội dung: Kênh Channel NewsAsia ngày 22-2 đăng tải thông tin về cuộc phỏng vấn độc quyền với Tổng thống Mỹ Barack Obama về những thành quả và thách thức trong suốt hai nhiệm kỳ tổng thống của ông.
+
+Theo đó, Tổng thống Mỹ Barack Obama đã có một cái nhìn lạc quan và nhận định rằng nhiều thứ trở nên tốt đẹp hơn tại Mỹ trong khoảng thời gian tại chức của ông.
+
+"Không nghi ngờ gì rằng chúng tôi trở nên tốt hơn t
+Nhãn: Tài chính quốc tế
+
+Phân loại bài báo sau vào đúng một nhãn trong danh sách: {labels}.
+Chỉ trả lời tên nhãn, không giải thích.
+
+Tiêu đề: {title}
+Nội dung: {body}
+
+Nhãn:

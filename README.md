@@ -9,7 +9,7 @@ Vietnamese financial news portal:
 | T1 Relevance filtering | `data/t1_filtering_*` | 1,184 | 5,518/1,182 | Acc / macro-F1 |
 | T2 Event categorization (10 classes) | `data/t2_categorization_*` | 1,250 | 20,000/1,250 | Acc / macro-F1 |
 | T3 Ticker linking | `data/t3_ticker_linking_test.jsonl` | 461 | - | per-article P/R/F1 |
-| T4 Summarization | `data/t4_summarization_test.jsonl` | 1,000 | - | ROUGE-1/2/L |
+| T4 Summarization | `data/t4_summarization_*` | 1,000 | 50,000/2,000 | ROUGE-1/2/L |
 
 ## Data format and copyright
 
