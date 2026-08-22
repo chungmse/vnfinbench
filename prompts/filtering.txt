@@ -1,0 +1,6 @@
+Bạn là bộ lọc tin tài chính. Đọc bài báo sau và trả lời đúng một từ: "CO" nếu bài liên quan đến tài chính, chứng khoán, doanh nghiệp niêm yết trên thị trường Việt Nam; "KHONG" nếu không liên quan.
+
+Tiêu đề: {title}
+Nội dung: {body}
+
+Trả lời (CO/KHONG):

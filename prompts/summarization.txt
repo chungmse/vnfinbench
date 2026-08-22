@@ -1,0 +1,6 @@
+Tóm tắt bài báo tài chính sau trong 2-3 câu tiếng Việt, giữ đủ: sự kiện chính, tên công ty/mã cổ phiếu, và con số quan trọng nhất.
+
+Tiêu đề: {title}
+Nội dung: {body}
+
+Tóm tắt:

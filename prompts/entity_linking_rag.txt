@@ -1,0 +1,8 @@
+Liệt kê tất cả mã cổ phiếu được nhắc đến trong bài báo sau. Dưới đây là danh sách ứng viên (mã: các tên gọi/bí danh) truy xuất được:
+{aliases}
+Chỉ chọn mã thực sự được bài nhắc tới (chú ý: một số mã trùng với từ thông dụng như GAS, CEO — chỉ tính khi văn cảnh nói về công ty/cổ phiếu đó). Trả lời JSON: {{"tickers": [...]}}.
+
+Tiêu đề: {title}
+Nội dung: {body}
+
+JSON:

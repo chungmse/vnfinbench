@@ -1,0 +1,6 @@
+Liệt kê tất cả mã cổ phiếu niêm yết tại Việt Nam (HOSE/HNX/UPCoM) được nhắc đến trong bài báo sau, kể cả khi bài chỉ nêu tên công ty. Trả lời dạng JSON: {{"tickers": ["ABC", ...]}}. Nếu không có, trả lời {{"tickers": []}}.
+
+Tiêu đề: {title}
+Nội dung: {body}
+
+JSON:

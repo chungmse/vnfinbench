@@ -1,0 +1,7 @@
+Phân loại bài báo tài chính sau vào đúng một nhãn trong danh sách: {labels}.
+Chỉ trả lời tên nhãn, không giải thích.
+
+Tiêu đề: {title}
+Nội dung: {body}
+
+Nhãn:
