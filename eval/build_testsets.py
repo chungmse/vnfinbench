@@ -3,7 +3,7 @@
 Output: data_out/*.jsonl (nho, de day len server)."""
 import json, random, glob, os, re, unicodedata
 
-SRC='/Users/chungnv/Downloads/paper2/data'
+SRC=os.environ.get('VNFINBENCH_SRC', 'raw')  # folder holding the crawled corpus
 OUT='data_out'; os.makedirs(OUT, exist_ok=True)
 random.seed(42)
 

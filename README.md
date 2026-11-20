@@ -1,5 +1,10 @@
 # VnFinBench
 
+Benchmark splits, prompts, dictionaries, and evaluation code for the WSDM 2027 paper
+**Small Fine-tuned Models or Large Language Models? Benchmarking Vietnamese Financial
+News Understanding for Real-time Web Mining** (Nguyen Viet Chung, Phan Duy Hung).
+DOI: [10.1145/3862322.3863829](https://doi.org/10.1145/3862322.3863829)
+
 A benchmark for Vietnamese financial news understanding under real-time constraints.
 Four tasks drawn from a corpus of 863,793 articles (2007-2025) from a leading
 Vietnamese financial news portal:
@@ -42,3 +47,24 @@ annotator.
 
 PhoBERT: `python eval/train_phobert.py --task categorization --train ... --val ...`
 then `python eval/infer_phobert.py --task categorization --input ...`.
+
+## Citation
+
+```bibtex
+@inproceedings{nguyen2027vnfinbench,
+  author    = {Nguyen, Viet Chung and Phan, Duy Hung},
+  title     = {Small Fine-tuned Models or Large Language Models? Benchmarking Vietnamese Financial News Understanding for Real-time Web Mining},
+  booktitle = {Proceedings of the Twentieth ACM International Conference on Web Search and Data Mining (WSDM '27)},
+  year      = {2027},
+  address   = {Hong Kong},
+  publisher = {ACM},
+  doi       = {10.1145/3862322.3863829}
+}
+```
+
+## License
+
+Code in `eval/` is released under the MIT License (see `LICENSE`). The prompts,
+dictionaries, T1 relevance labels, and annotation guideline are released under
+CC BY 4.0. Article URLs, editor section labels, and editor-written leads (sapo)
+originate from the publisher and are provided for research purposes only.
